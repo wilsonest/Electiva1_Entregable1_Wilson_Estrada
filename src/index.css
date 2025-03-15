@@ -5,9 +5,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("./kame.jpg") no-repeat center 20%;
+  background-size: auto;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  text-align: center;
+  color: darkorange;
+  font-family: Helvetica
+}
+
+img {
+  max-width: 5%;
+  max-height: 5%;
+  height: auto;
+  width: auto;
+  /* align-items: center;
+  text-align: center; */
+}
+
+
+ul {
+  text-align: center; 
+ }
+ 
+ .button {
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+ }
+ 
+ .button2 {background-color: #008CBA;}
