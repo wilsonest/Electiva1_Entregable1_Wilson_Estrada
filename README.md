@@ -15,3 +15,6 @@ El proyecto consiste en consumir una api a libre gusto y con ello evaluar cierto
 
 para la compilacion y ejecucion se debe tener node instalado (comando ejecucion: npm start)
 ya que el proyecto se realizo en react js
+
+
+Nota: el proyecto quedo alojado en la rama master
